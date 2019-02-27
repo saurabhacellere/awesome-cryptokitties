@@ -13,7 +13,7 @@ The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, C
 > - SUPER CHEAP: Gerbil, Ragdoll, Scarlet, Chestnut, Cotton Candy!!! 0.02 ETH (~$14)
 > - I'm giving away a Gen 1 FAST Gold for free...
 >
-> -- [CrypoKittiesMarket](https://www.reddit.com/r/CryptoKittiesMarket)
+> -- [CrypotKittiesMarket](https://www.reddit.com/r/CryptoKittiesMarket)
 
 
 > Blockchain has unlocked the magic of digital scarcity, and combining that with the power of
@@ -32,7 +32,7 @@ The Future of Digital Collectibles - CryptoKitties, CryptoPuppies, CryptoPets, C
 > This was a modern tulip bubble. You were buying hex strings that tied to the picture of a cat.
 > People were paying 10-20-30 ETH for a cat picture. 10 ETH was around $4000? For a cat picture. Yeah...
 >
-> -- [CrypoKitties](https://www.reddit.com/r/CryptoKitties)
+> -- [CryptoKitties](https://www.reddit.com/r/CryptoKitties)
 
 
 
@@ -468,6 +468,51 @@ Purebred WikiLeaks CryptoKitties arrive in time for Christmas.
 
 
 
+### Mania to Cooldown
+
+#### Q: How popular is CryptoKitties?
+
+In December 2017 - CryptoKitties Mania:
+
+> CryptoKitties is now the most popular contract on ethereum, 
+> accounting for 11 percent of total traffic (transactions).
+>
+> (Source: [CryptoKitties Mania Overwhelms Ethereum Network's Processing](https://www.bloomberg.com/news/articles/2017-12-04/cryptokitties-quickly-becomes-most-widely-used-ethereum-app), December 4th, 2017)
+
+
+> CryptoKitties make up over 20 percent of all ethereum computations 
+> and the app is Ethereum’s most popular by far.
+>
+> (Source: [How CryptoKitties Disrupted the Ethereum Network](https://hackernoon.com/how-crypto-kitties-disrupted-the-ethereum-network-845c22aa1e6e), December 2017)
+
+
+In April 2018 - CryptoKitties Cooldown:
+
+
+> The number of active decentralized app (dapp) users [on ethereum] 
+> is shockingly low, even for high-profile app like CryptoKitties.
+>
+> Citing data from DappRadar, Chris McCann reports that CryptoKitties has fewer than 1 000 daily active users (DAU). 
+> Granted, interest has sharply declined over the past few months, 
+> but he estimates that even at its peak the [CryptoKitties] app 
+> likely only had about 14 000 daily users.
+> Neopets, a game to which CryptoKitties is often compared, once had as many as 35 million users.
+>
+> (Source: [CryptoKitties Isn’t as Popular as You Think It Is](https://www.ccn.com/cryptokitties-isnt-as-popular-as-you-think-it-is/), April 2018)
+
+
+![](i/dappradar.png)
+
+(Source: [DappRadar](https://dappradar.com), April 2018)
+
+
+![](i/rolldiceclub-activeplayers.png)
+
+(Source: [Roll Dice Club - CryptoKitties - Active Players](http://www.rolldice.club/cryptokitties/index.php), April 2018)
+
+
+
+
 ### Sales Statistics
 
 
@@ -612,7 +657,7 @@ by Shannon Liao, The Verge, December 2017 -- Todd -a 30-year-old -spent 30 ether
 [**This User Made 462 Ether ($210 000) In 3 Days Trading CryptoKitties**](http://storeofvalueblog.com/posts/this-user-made-462-ether-in-3-days-playing-cryptokitties/) -- get in early and buy (limited) founder cats (only 100 max auctioned off) 
 and sell high to greater fools before the bubble pops
 
-| Kittie  |	Bought (eth)	| Sold (eth)  |	Profit (-fees)	| Bought      | Sold |
+| Kitty   |	Bought (Eth)	| Sold (Eth)  |	Profit (-Fees)	| Bought      | Sold |
 |---------|---------------|-------------|-----------------|-------------|------|
 | #7      |	49.21	        | 190.05	    | +133.71	        | Dec/3 21:28	| Dec/4 19:45  |
 | #42	    | 9.86	        | 75.08	      | +62.41	        | Dec/3 9:21	| Dec/4 8:19   |
@@ -721,7 +766,7 @@ Will CryptoKitties ever run out of new greater fools?
 > - Selling all kitties for .45 ETH - 9 kitties, quick cooldowns, early generations, rare traits
 > - Selling whole account with 18 good kitties (10 amurs, rare traits, 1 fancy, max gen.3-9) - Make me an offer!
 >
-> -- [CrypoKittiesMarket](https://www.reddit.com/r/CryptoKittiesMarket)
+> -- [CryptoKittiesMarket](https://www.reddit.com/r/CryptoKittiesMarket)
 
 
 ##### Q: Is CryptoKitties an online gambling casino?
@@ -764,7 +809,7 @@ Buy Fine Crypto Kitty Art Paintings (Acryl on Canvas) - Original (*) Modern Art?
 
 (*): Yes, you really really own the painting.
 
-> Everybody is going nuts about CrypoKitties ( including myself ) So, as a painter my madness is reflected in art;
+> Everybody is going nuts about CryptoKitties ( including myself ) So, as a painter my madness is reflected in art;
 > so I've started to paint this kitties... lot's of kitties :)
 
 ![](i/cryptokitties-modernart-paintings-ii.png)
